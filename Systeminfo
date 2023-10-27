@@ -1,22 +1,68 @@
 # Comando Systeminfo
-El comando siguiente te proporciona información de la configuración de tu ordenador.
-En esta lista verás datos tanto del sistema operativo como del hardware,
-como puede ser la fecha de instalación original de Windows, la hora del último arranque,
-la versión de su BIOS, la memoria total, la memoria disponible, las revisiones instaladas, las configuraciones de la tarjeta de red y más.
+  El comando siguiente te proporciona información de la configuración de tu ordenador.
+  En esta lista verás datos tanto del sistema operativo como del hardware,
+  como puede ser la fecha de instalación original de Windows, la hora del último arranque,
+  la versión de su BIOS, la memoria total, la memoria disponible, las revisiones instaladas, las configuraciones de la tarjeta de red y más.
 
 # Nombre de host:                            
   DESKTOP-7FT37AV
+
 # Nombre del sistema operativo:              
   Microsoft Windows 10 Pro
+
 # Versión del sistema operativo:             
   10.0.19045 N/D Compilación 19045
+
 # Fabricante del sistema operativo:          
   Microsoft Corporation
-# Procesador 
+
+# Procesador: 
   [01]: AMD64 Family 21 Model 19 Stepping 1 AuthenticAMD ~2900 Mhz
-# Tipo sistema
+
+# Tipo sistema:
   x64-based PC
-# Version de BIOS
+
+# Version de BIOS:
   Insyde F.42, 4/11/2015
+
 # Valor de la frecuencia -> numero de instrucciones que se realizan por ciclos
   ~2900 Mhz
+
+# Memoria fisica -> La memoria física (también conocida como RAM - memoria de acceso aleatorio) 
+  es una hardware Componente que proporciona almacenamiento temporal de alta velocidad para procesos,
+  programas y datos en ejecución activa.
+     709 MB
+
+# Memoria Virtual -> La memoria virtual es una función del sistema operativo que permite que una computadora resuelva
+  la escasez de memoria física mediante la transferencia temporal de datos de la RAM
+  al almacenamiento en disco (disco duro o SSD).
+    7.625 MB
+
+# Tarjeta(s) de red:                         3 Tarjetas de interfaz de red instaladas.
+                                           [01]: Qualcomm Atheros QCA9565 802.11b|g|n WiFi Adapter
+                                                 Nombre de conexión: Wi-Fi
+                                                 Estado:             Medios desconectados
+                                           [02]: Realtek PCIe FE Family Controller
+                                                 Nombre de conexión: Ethernet
+                                                 DHCP habilitado:    Sí
+                                                 Servidor DHCP:      172.29.40.1
+                                                 Direcciones IP
+                                                 [01]: 172.29.41.114
+                                                 [02]: fe80::ff2f:7702:19b1:4f58
+                                           [03]: Microsoft Wi-Fi Direct Virtual Adapter
+                                                 Nombre de conexión: Conexión de área local* 2
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.137.1
+                                                 [02]: fe80::4f18:d2c5:1a7b:99a7
+
+# Touch
+  Nos sirve para crear un nuevo archivo
+  --help nos sirve para conocer la información de ese contenido
+  touch--c (do not create any files) //no crea ningun archivo
+
+#rmdir:
+  sirve para borrar un directorio o carpeta
+
+
+
