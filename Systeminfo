@@ -1,0 +1,22 @@
+# Comando Systeminfo
+El comando siguiente te proporciona información de la configuración de tu ordenador.
+En esta lista verás datos tanto del sistema operativo como del hardware,
+como puede ser la fecha de instalación original de Windows, la hora del último arranque,
+la versión de su BIOS, la memoria total, la memoria disponible, las revisiones instaladas, las configuraciones de la tarjeta de red y más.
+
+# Nombre de host:                            
+  DESKTOP-7FT37AV
+# Nombre del sistema operativo:              
+  Microsoft Windows 10 Pro
+# Versión del sistema operativo:             
+  10.0.19045 N/D Compilación 19045
+# Fabricante del sistema operativo:          
+  Microsoft Corporation
+# Procesador 
+  [01]: AMD64 Family 21 Model 19 Stepping 1 AuthenticAMD ~2900 Mhz
+# Tipo sistema
+  x64-based PC
+# Version de BIOS
+  Insyde F.42, 4/11/2015
+# Valor de la frecuencia -> numero de instrucciones que se realizan por ciclos
+  ~2900 Mhz
